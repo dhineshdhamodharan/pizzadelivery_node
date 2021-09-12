@@ -1,0 +1,75 @@
+[
+    {
+        "name":"Margherita",
+        "img" :"https://www.dominos.co.in/files/items/Margherit.jpg",
+        "price":250,
+        "size":"Small"
+    },
+    {
+        "name":"Double Margherita",
+        "img" :"https://www.dominos.co.in/files/items/Double_Cheese_Margherita.jpg",
+        "price":280,
+        "size":"Regular"
+    },
+    {
+        "name":"Farm House",
+        "img" :"https://www.dominos.co.in/files/items/Farmhouse.jpg",
+        "price":380,
+        "size":"Large"
+    },
+    {
+        "name":"Peppy Paneer",
+        "img" :"https://www.dominos.co.in/files/items/Peppy_Paneer.jpg",
+        "price":280,
+        "size":"Small"
+    },
+    {
+        "name":"Mexican Pizza",
+        "img" :"https://www.dominos.co.in/files/items/Mexican_Green_Wave.jpg",
+        "price":160,
+        "size":"Regular"
+    },
+    {
+        "name":"Deluxe Veggie",
+        "img" :"https://www.dominos.co.in/files/items/Deluxe_Veggie.jpg",
+        "price":470,
+        "size":"Large"
+    },
+    {
+        "name":"Veg Extravaganza",
+        "img" :"https://www.dominos.co.in/files/items/Veg_Extravaganz.jpg",
+        "price":150,
+        "size":"Small"
+    },
+    {
+        "name":"CHEESE N CORN",
+        "img" :"https://www.dominos.co.in/files/items/Corn_&_Cheese.jpg",
+        "price":440,
+        "size":"Large"
+    },
+    {
+        "name":"PANEER MAKHANI",
+        "img" :"https://www.dominos.co.in/files/items/Paneer_Makhni.jpg",
+        "price":250,
+        "size":"Small"
+    },
+    {
+        "name":"VEGGIE PARADISE",
+        "img" :"https://www.dominos.co.in/files/items/Digital_Veggie_Paradise_olo_266x265.jpg",
+        "price":270,
+        "size":"Regular"
+    },
+    {
+        "name":"FRESH VEGGIE",
+        "img" :"https://www.dominos.co.in/files/items/Fresh_Veggie.jpg",
+        "price":200,
+        "size":"Small"
+    },
+    {
+        "name":"Veg Delight",
+        "img" :"https://www.dominos.co.in/files/items/Mexican_Green_Wave.jpg",
+        "price":300,
+        "size":"Regular"
+    }
+
+]
